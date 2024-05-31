@@ -1,0 +1,29 @@
+.ab{
+    margin-top: 20px;
+    margin-bottom: 20;
+}
+ h2{
+    font-size: 30px;
+    font-weight: 600;
+    color: gray;
+}
+ h4{
+    margin-bottom: 14px;
+    font-size: 20px;
+}
+hr{
+    margin: 10px 0px;
+    height: 2px;
+    background-color: #e2e2e2;
+    border: none;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+p{
+    font-size: 16px;
+    
+}
+.b{
+    color: gray;
+}
